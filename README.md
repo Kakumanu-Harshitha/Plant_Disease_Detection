@@ -23,7 +23,7 @@ I used a compiler GPU provided in google colab while running this project.
 # Results
 This model acheived training accuracy of 89% and validation accuracy of 93%.
 # References
-Plant Disease Detection Dataset
+[Plant Disease Detection Dataset](https://www.kaggle.com/datasets/emmarex/plantdisease)
 
 # Requirements
 Pandas
